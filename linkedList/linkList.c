@@ -198,6 +198,7 @@ int main(){
     insertAt(&L,400,2);
     insert_front(&L,900);
     insert_back(&L,1000);
+    insert_front(&L,599);
 
 
 
