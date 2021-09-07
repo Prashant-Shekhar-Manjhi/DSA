@@ -82,8 +82,7 @@ int main(){
     pop(&S);
     pop(&S);
     pop(&S);
-    pop(&S);
-    pop(&S);  
+    pop(&S); 
     push(&S,10);  
     printf("%d\n",frontStack(S));
     printStack(S);
